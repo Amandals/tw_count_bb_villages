@@ -1,6 +1,6 @@
 streamlit
 gradio==3.24.0
-opencv-python
+opencv-python-headless
 numpy
 requests
 setuptools
