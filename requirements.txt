@@ -1,5 +1,5 @@
 streamlit
-gradio
+gradio==3.24.0
 opencv-python
 numpy
 requests
